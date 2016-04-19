@@ -1,4 +1,4 @@
-{'Breed': {0 : 'akita',1 : 'alaskan husky',2 : 'american eskimo',
+{'DataBreed': {0 : 'akita',1 : 'alaskan husky',2 : 'american eskimo',
 3 : 'anatol shepherd',4 : 'bedlington terr',5 : 'belgian malinois',
 6 : 'belgian sheepdog',7 : 'belgian tervuren',8 : 'bichon frise',
 9 : 'black mouth cur',10 : 'bluetick hound',11 : 'boykin span',
